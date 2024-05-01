@@ -1,22 +1,22 @@
 # İlinerTeknoloji
 
-[English](README-en.md)
+[Türkçe](README.md)
 
-- 🔭 Şu anda **Crysus ve WebPC** üzerinde çalışıyoruz
+- 🔭 We are currently working on **Crysus and WebPC**
 
-## Özelleştirilmiş Sunucu ve Yazılım Çözümleri
+## Customized Server and Software Solutions
 
-Gelişmiş sunucu çözümleri ve özelleştirilmiş yazılım hizmetleri ile işinizi daha verimli hale getiriyoruz. Müşterilerimizin ihtiyaçlarını karşılamak için özel sunucu çözümleri sunuyor ve deneyimli geliştirme ekibimizle özelleştirilmiş yazılım çözümleri sağlıyoruz. Yenilikçi yaklaşımımız ve teknoloji alanındaki uzmanlığımız ile müşterilerimizin her zaman bir adım önde olmasını sağlıyoruz. İşinizi daha verimli hale getirmek ve rekabet avantajı elde etmek için bizimle iletişime geçin.
+We make your business more efficient with advanced server solutions and customized software services. Offering tailor-made server solutions to meet our customers' needs and providing customized software solutions with our experienced development team. With our innovative approach and expertise in technology, we ensure that our customers are always one step ahead. Get in touch with us to make your business more efficient and gain a competitive advantage.
 
-## Hizmetlerimiz
+## Our Services
 
-- Özelleştirilmiş sunucu çözümleri
-- Deneyimli yazılım geliştirme ekibi
-- Müşteriye özel yazılım çözümleri
+- Customized server solutions
+- Experienced software development team
+- Customer-specific software solutions
 
 ![ilinerteknoloji](https://github-profile-trophy.vercel.app/?username=ilinerteknoloji)
 
-### Bizimle bağlantı kurun
+### Connect with us
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ilinerteknoloji)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/08502419362)
@@ -80,6 +80,6 @@ Gelişmiş sunucu çözümleri ve özelleştirilmiş yazılım hizmetleri ile i�
 
 <!-- ![ilinerteknoloji](https://github-readme-stats.vercel.app/api/top-langs?username=ilinerteknoloji&show_icons=true&locale=en&layout=compact) -->
 
-![ilinerteknoloji](https://github-readme-stats.vercel.app/api?username=ilinerteknoloji&show_icons=true&locale=tr)
+![ilinerteknoloji](https://github-readme-stats.vercel.app/api?username=ilinerteknoloji&show_icons=true&locale=en)
 
-![ilinerteknoloji](https://github-readme-streak-stats.herokuapp.com/?user=ilinerteknoloji&locale=tr)
+![ilinerteknoloji](https://github-readme-streak-stats.herokuapp.com/?user=ilinerteknoloji&locale=en)
